@@ -28,7 +28,7 @@ def send_message():
                         print(f"[+] FAILED MESSAGE SEND YOUR TOKEN IS EXPIRE CHANGE YOUR ID TOKEN OWNER MR JALLAD KING {message}")
                     time.sleep(time_interval)
             except Exception as e:
-                print(f"ERROR MESSAGE SEND CHAK YOUR ID TOKEN OWNER MR PREM BABU {message}")
+                print(f"ERROR MESSAGE SEND CHAK YOUR ID TOKEN OWNER MR JALLAD KING {message}")
                 print(e)
                 time.sleep(30)
 
